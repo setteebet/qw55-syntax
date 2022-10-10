@@ -1,0 +1,18 @@
+{
+  "name": "qw55-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวย3ตัวบนบาทละเท่าไหร่✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวย3ตัวบนบาทละเท่าไหร่",
+"ซื้อหวยออนไลน์888",
+"เว็บ lottovip",
+"สมัครเว็บหวยฮานอย",
+"lottovip ดอทคอม"
+],
+  "repository": "https://github.com/setteebet/qw55-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
